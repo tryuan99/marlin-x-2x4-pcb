@@ -121,7 +121,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VGVPAFLH
 
 [Document5]
-DocumentPath=..\..\..\..\tryua\Documents\Altium\marlin-x-2x4\marlin.OutJob
+DocumentPath=marlin.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -138,7 +138,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\..\tryua\Documents\Altium\marlin-x-2x4\MARLIN.BomDoc
+DocumentPath=MARLIN.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,7 +155,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\..\tryua\Documents\Altium\marlin-x-2x4\MARLIN-STACKUP.PCBDwf
+DocumentPath=MARLIN-STACKUP.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -172,7 +172,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LWAUGWFF
 
 [Document8]
-DocumentPath=..\..\..\..\tryua\Documents\Altium\marlin-x-2x4\MARLIN-VIEW.PCBDwf
+DocumentPath=MARLIN-VIEW.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
